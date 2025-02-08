@@ -7,7 +7,6 @@ import Footer from './Footer.jsx'
 import Contact from "./Contact.jsx"
 import About from './About.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap-icons/font/bootstrap-icons.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 const App = () => {
