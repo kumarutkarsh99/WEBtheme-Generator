@@ -1,8 +1,22 @@
-# React + Vite
+Website Theme Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Overview
+This is a responsive and interactive frontend web application built with React. The project features dynamic navigation and page routing for a smooth user experience.
 
-Currently, two official plugins are available:
+Features
+- Responsive design for various screen sizes.
+- Smooth navigation using React Router.
+- Optimized for performance and SEO.
+- Fully deployed and hosted on Vercel.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+- React for building the user interface.
+- CSS and Bootstrap for Designing.
+- Vercel for deployment and hosting.
+- 
+## Contributing
+Feel free to submit issues or pull requests to improve this project.
+
+## License
+This project is licensed under the MIT License.
+
