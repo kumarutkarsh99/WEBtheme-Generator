@@ -17,6 +17,3 @@ This is a responsive and interactive frontend web application built with React. 
 ## Contributing
 Feel free to submit issues or pull requests to improve this project.
 
-## License
-This project is licensed under the MIT License.
-
