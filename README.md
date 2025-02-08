@@ -13,7 +13,7 @@ This is a responsive and interactive frontend web application built with React. 
 - React for building the user interface.
 - CSS and Bootstrap for Designing.
 - Vercel for deployment and hosting.
-- 
+  
 ## Contributing
 Feel free to submit issues or pull requests to improve this project.
 
